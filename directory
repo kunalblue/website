@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Bay School Project",
+    "description": "An environmental education initiative.",
+    "tags": ["education", "sustainability"],
+    "link": "https://kunaldutt.co/bayschool/"
+  },
+  {
+    "title": "Strive2Thrive",
+    "description": "A mental health and wellness project.",
+    "tags": ["mental health", "wellness"],
+    "link": "https://kunaldutt.co/strive2thrive/"
+  },
+  {
+    "title": "Earth Club",
+    "description": "Community-driven environmental action group.",
+    "tags": ["environment", "community"],
+    "link": "https://kunaldutt.co/earthclub/"
+  }
+]

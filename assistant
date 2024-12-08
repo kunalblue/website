@@ -4,3 +4,4 @@
       ├── index.html    # Chatbot UI
       ├── style.css     # Chatbot styling
       ├── script.js     # Chatbot logic
+  ├── api/              # Backend folder

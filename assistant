@@ -1,6 +1,6 @@
 /website
-  ├── index.html        # Your main website
-  ├── chatbot/
-      ├── index.html    # Chatbot UI
-      ├── style.css     # Chatbot styling
-      ├── script.js     # Chatbot logic
+  ├── index.html         # Main website
+  ├── assistant/         # Chatbot UI folder
+      ├── index.html     # Chatbot interface
+      ├── style.css      # Chatbot styling
+      ├── script.js      # Chatbot frontend logic
